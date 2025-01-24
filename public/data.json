@@ -1,0 +1,31 @@
+
+    [
+        {
+            "id":1 ,
+            "sender": "James Waweru",
+            "indentifier": "+254113477249",
+            "transaction" : "G5RTSFF6GH33",
+            "message" : {
+                "head" : " You have recieved ",
+                "body" : "Safaricom the better option",
+                "footer" : "Complete transactions upto 300,000 ksh "
+            },
+            "sent": "300 ksh",
+            "balance": "50 ksh",
+            "time": "12:39 pm "
+        },
+        {
+            "id":1 ,
+            "sender": "James Waweru",
+            "indentifier": "+254113477249",
+            "transaction" : "G5RTSFF6GH36",
+            "message" : {
+                "head" : " You have recieved ",
+                "body" : "Safaricom the better option",
+                "footer" : "Complete transactions upto 300,000 ksh "
+            },
+            "sent": "300 ksh",
+            "balance": "50 ksh",
+            "time": "12:39 pm "
+        }
+    ]

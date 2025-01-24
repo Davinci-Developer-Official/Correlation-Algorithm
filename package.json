@@ -1,0 +1,27 @@
+{
+  "name": "correlation-algorithm",
+  "version": "1.0.0",
+  "description": "- sender name\r - transaction code\r - unique secret identifier\r - default message\r - amount sent\r - remaining balance\r - transaction time",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davinci-Developer-Official/Correlation-Algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Davinci-Developer-Official/Correlation-Algorithm/issues"
+  },
+  "homepage": "https://github.com/Davinci-Developer-Official/Correlation-Algorithm#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.21.2",
+    "g": "^2.0.1",
+    "nodemon": "^3.1.9"
+  }
+}
